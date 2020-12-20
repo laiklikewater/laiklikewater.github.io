@@ -1,4 +1,4 @@
-## Welcome to Laik Sweeney's GitHu
+## Welcome to Laik's GitHub
 
 You can use the [editor on GitHub](https://github.com/laiklikewater/laiklikewater.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
